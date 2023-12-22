@@ -1,5 +1,6 @@
 # SchalendarAppFinal
 Link to Android Repository: https://github.com/KelvinLinBU/SchalendarDec21/tree/main/dbtest
+
 Project Deliverables:
 1. Proposal: Propose ideas for mobile app, brainstorm features, plan out what it is that we plan on building
 2. Update 1: Give updates on the mobile app including a demo of what was working
